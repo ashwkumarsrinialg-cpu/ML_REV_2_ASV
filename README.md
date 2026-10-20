@@ -1,8 +1,7 @@
 # 23CSE301 Machine Learning: Capstone Project (Review 2)
 
 **Team ASV_INTELLIGENCE** · Academic year 2026-27
-**Live demo (bonus):** _paste the public Streamlit URL here once deployed_
-
+**Live demo (bonus):** _http://localhost:8501/_**
 | Member | Roll number |
 |:--|:--|
 | Ashwin Kumar Srinivasan | CB.SC.U4CSE24607 |
