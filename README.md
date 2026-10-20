@@ -44,7 +44,6 @@ notebooks/            classification.ipynb and clustering.ipynb (fully executed)
 models/               best_classifier.joblib (the saved final model)
 figures/              all plots and result tables (CSV)
 app/                  Streamlit demo (optional bonus) and deployment notes
-docs/                 checklist, viva prep, presentation outline, git plan
 ```
 
 ## 4. How to run it
