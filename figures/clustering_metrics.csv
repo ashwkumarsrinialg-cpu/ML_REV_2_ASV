@@ -1,0 +1,3 @@
+Algorithm,k,Silhouette (↑),Davies-Bouldin (↓),Calinski-Harabasz (↑),Cluster sizes
+K-Means,6,0.4284,0.8254,135.1021,"[45, 39, 33, 39, 23, 21]"
+Agglomerative (ward),6,0.4201,0.8521,127.9865,"[45, 45, 39, 28, 22, 21]"

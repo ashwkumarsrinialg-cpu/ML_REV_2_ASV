@@ -1,0 +1,8 @@
+Algorithm,CV F1 (default),CV F1 (tuned),CV gain,Test F1 (tuned),Test Acc (tuned),Best params
+Gradient Boosting,0.8498,0.85,0.0002,0.854,0.8594,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200}"
+Random Forest,0.8366,0.8478,0.0111,0.8457,0.8531,"{'max_depth': 20, 'n_estimators': 100}"
+AdaBoost,0.8355,0.8414,0.0059,0.8342,0.8425,"{'learning_rate': 1.0, 'n_estimators': 200}"
+MLP (Neural Net),0.8373,0.838,0.0007,0.8478,0.8481,"{'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (64, 32)}"
+SVM (SVC),0.8369,0.8369,0.0,0.8436,0.8512,"{'C': 1, 'kernel': 'rbf'}"
+Logistic Regression,0.8335,0.8339,0.0004,0.8325,0.8381,{'C': 10}
+KNN,0.823,0.83,0.0071,0.8357,0.8419,"{'metric': 'manhattan', 'n_neighbors': 21}"
